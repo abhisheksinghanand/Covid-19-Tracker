@@ -1,6 +1,6 @@
-# CovidApp
+# Covid Tracker App
+This is a single page application implemented in Angular using the open source covid API to track daily status of the Covid cases of each country.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
 ## Further help
 
